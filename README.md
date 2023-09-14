@@ -1,14 +1,12 @@
-# Hi, I’m @ThoughtVessel
-I'm a young programmer and I want to program computers and have fun.
+# Hi, I’m Andrew Robinson
+I'm a computer science major at UCSC.
 
 ## Interests
 I am really interested in AI and backend programming. However, I also love to apply coding to 
-engineering projects to create awesome machines, self controlled rockets, and other cool gadgets.
+engineering projects to create awesome machines, self-controlled rockets, and other cool gadgets.
 
 ## Currently Learning
-I am currently taking Andrew Ng's coursera course on machine learning. 
-
-I am also learning the languages Matlab, Javascript, and Python.
+I am currently taking Udacity's PyTorch deep learning course.
 
 
 <!---
